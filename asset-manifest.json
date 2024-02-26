@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-tic-tac-toe/static/css/main.21a8f712.css",
+    "main.js": "/fcc-tic-tac-toe/static/js/main.6b1d0d12.js",
+    "static/js/453.aae79206.chunk.js": "/fcc-tic-tac-toe/static/js/453.aae79206.chunk.js",
+    "index.html": "/fcc-tic-tac-toe/index.html",
+    "main.21a8f712.css.map": "/fcc-tic-tac-toe/static/css/main.21a8f712.css.map",
+    "main.6b1d0d12.js.map": "/fcc-tic-tac-toe/static/js/main.6b1d0d12.js.map",
+    "453.aae79206.chunk.js.map": "/fcc-tic-tac-toe/static/js/453.aae79206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a8f712.css",
+    "static/js/main.6b1d0d12.js"
+  ]
+}
